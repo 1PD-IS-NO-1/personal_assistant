@@ -1,0 +1,50 @@
+**Task: Web Development**
+
+To complete the web development task, the following resources are required:
+
+1. **Budget:** The budget for web development can vary widely depending on the complexity of the project. A rough estimate for a basic website is $5,000 to $10,000, while a more complex web application can cost $50,000 to $100,000 or more.
+2. **Tools:** The necessary tools for web development include:
+	* Text editor or IDE (e.g., Visual Studio Code, Sublime Text)
+	* Version control system (e.g., Git, SVN)
+	* Front-end frameworks (e.g., React, Angular, Vue.js)
+	* Back-end frameworks (e.g., Node.js, Django, Ruby on Rails)
+	* Database management system (e.g., MySQL, MongoDB, PostgreSQL)
+	* Hosting service (e.g., AWS, Google Cloud, Microsoft Azure)
+3. **Storage:** The required storage space for web development depends on the size and complexity of the project. A rough estimate is:
+	* 100 GB to 500 GB of storage space for a basic website
+	* 1 TB to 5 TB or more for a complex web application
+
+**Employee Allocation:**
+
+Based on the available skills, the following employees can be allocated to the web development task:
+
+1. **Sahil Repuriya:** As he has the necessary skill of web development, he can be assigned to lead the front-end and back-end development of the project.
+
+However, to complete the web development task efficiently, additional skills are required, such as:
+
+1. **Front-end developer:** With expertise in HTML, CSS, JavaScript, and front-end frameworks like React or Angular.
+2. **Back-end developer:** With expertise in programming languages like Java, Python, or Ruby, and back-end frameworks like Node.js or Django.
+3. **Database administrator:** With expertise in database management systems like MySQL, MongoDB, or PostgreSQL.
+4. **DevOps engineer:** With expertise in deployment, scaling, and management of web applications.
+
+As these skills are not available in the current team, it is recommended to **hire new employees** with the necessary skills to complete the web development task.
+
+**Hiring Recommendations:**
+
+1. Hire a front-end developer with expertise in HTML, CSS, JavaScript, and front-end frameworks.
+2. Hire a back-end developer with expertise in programming languages like Java, Python, or Ruby, and back-end frameworks.
+3. Hire a database administrator with expertise in database management systems like MySQL, MongoDB, or PostgreSQL.
+4. Hire a DevOps engineer with expertise in deployment, scaling, and management of web applications.
+
+**Current Team Utilization:**
+
+While the current team members do not have the exact skills required for web development, they can still contribute to the project in other ways:
+
+1. **Vivek Choudhary:** Can help with database design and management, using his skills in database administration.
+2. **Raj Ambavane:** Can help with machine learning integration, using his skills in machine learning and Python.
+3. **Yugal Singh:** Can help with AI-related tasks, using his skills in Agentic AI.
+4. **Ishika Dubey:** Can help with AI and ML-related tasks, using her skills in AI and ML.
+5. **G Kirtika:** Can help with back-end development, using her skills in Python, Java, and MySQL.
+6. **Prerna Kulkarni:** Can help with building AI agents, using her skills in building AI agents.
+
+However, their contributions will be limited by the lack of direct web development skills, and it is still essential to hire new employees with the necessary skills to complete the task efficiently.
