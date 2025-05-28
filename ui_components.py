@@ -17,6 +17,8 @@ import bson
 from urllib.parse import quote_plus
 from bson.objectid import ObjectId
 
+if not GROQ_API_KEY:
+    raise ValueError("GROQ_API_KEY not found in environment variables")
 
 
 from discussions import (
@@ -44,7 +46,7 @@ from task_utils import calculate_initial_date, create_gantt_chart
 # Load environment variables
 load_dotenv()
 
-# Get raw credentials
+# Get raw credentials 
 raw_username = os.getenv("MONGO_USER")
 raw_password = os.getenv("MONGO_PASS")
 cluster = os.getenv("MONGO_CLUSTER")
